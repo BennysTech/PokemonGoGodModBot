@@ -1,8 +1,10 @@
-# HELP NEEDED
-  - So there is a guy, which copys 1:1 my source and puts it online.
-  - Help me to get his Site + copied Bot removed. 
-  - His site is: https://www.pokecrot.com/
-  - Until that is done, i only publish builds. No Source.
+# DISCLAIMER
+  - This is not my code, I got it from here: https://github.com/Ar1i/PokemonGo-Bot
+  - This is just a modified version I want to track with git.
+  - Please go to https://github.com/Ar1i/PokemonGo-Bot and donate there.
+  
+  
+COPY & PASTE FROM THEIR README:
 
 # Donate
   - Every Donation will help the Project!
